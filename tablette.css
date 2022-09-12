@@ -23,7 +23,6 @@ header
     align-items: center;
     justify-content: center;
     height: auto;
-    margin-bottom: 40px;
 }
 
  .nav_bar img
@@ -57,11 +56,12 @@ header
 main
 {
     margin: 0px;
+    padding: 0;
 }
 
 .section_1 
 {
-    margin: 20px;
+    padding: 20px;
 }
 
 .section_1 h1
@@ -91,13 +91,14 @@ main
 .info_icon
 {
     display: flex;
-    width: 4%;
+    width: 3%;
 }
 
 #info p
 {
     font-size: 20px;
 }
+
 /* Section cards hébergements à Marseille */
 
 .wrapper
@@ -186,7 +187,6 @@ main
 .card_body_popular h4
 {
     font-size: 23px;
-    /* margin-top: 15px; */
     flex-wrap: wrap;
 }
 
@@ -209,12 +209,12 @@ main
 
 #activities
 {
-    margin: 0px 10px 0px;
+    padding: 0px 10px 0px;
 }
 
 #activities h2
 {
-    margin-left: 10px;
+    padding-left: 10px;
 }
 
 .full_card_img
@@ -225,8 +225,6 @@ main
 .M_activity_title
 {
     font-size: 16px;
-    /* padding-top: 8px; */
-    /* align-items: center; */
 }
 
 .A_Marseille_deux_tiers_card_img
