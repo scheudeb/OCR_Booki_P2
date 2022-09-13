@@ -37,7 +37,8 @@ section p
 
 header
 {
-    padding: 50px 50px 0px 50px;
+    margin-top: 0%;
+    padding: 0px 50px 0px 50px;
 }
 
 .nav_bar {
@@ -50,7 +51,7 @@ header
 
 .nav_bar img
 {
-    margin-top: 10px;
+    margin-top: 15px;
     margin-bottom: 5px;
 }
 .renvoi
@@ -84,7 +85,7 @@ header
 
 main
 {
-    padding: 35px 50px 50px 50px;
+    padding: 5px 50px 50px 50px;
 }
 
 /*Formulaire de recherche */
